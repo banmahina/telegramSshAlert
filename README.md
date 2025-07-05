@@ -5,7 +5,7 @@
 ## Установка
 
 ```bash
-git clone https://github.com/banmahina/telegramSshAlert.git
+git clone https://github.com/banmahina/telegramsshalert.git
 cd telegramsshalert
 chmod +x install.sh
 sudo ./install.sh
